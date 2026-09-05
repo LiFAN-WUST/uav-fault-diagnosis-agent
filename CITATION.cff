@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+title: "Knowledge-Graph-Enhanced Multi-Agent System for UAV Fault Diagnosis"
+message: "Please cite the project repository when referring to this research showcase."
+type: software
+repository-code: "https://github.com/LiFAN-WUST/uav-fault-diagnosis-agent"
+abstract: >-
+  Public research showcase for a deployed UAV fault-diagnosis prototype with
+  bounded evidence routing and conservative decision support.
+license: "LicenseRef-Proprietary-Research-Showcase"
+keywords:
+  - UAV
+  - fault diagnosis
+  - multi-agent systems
+  - knowledge graph
+  - maintenance decision support

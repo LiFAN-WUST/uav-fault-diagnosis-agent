@@ -1,0 +1,50 @@
+# Local configuration and credentials
+.env
+.env.*
+!.env.example
+.envrc
+.npmrc
+.pypirc
+.netrc
+*.secret
+*.pem
+*.key
+*.p12
+*.pfx
+*.ppk
+*.ovpn
+id_rsa*
+id_ed25519*
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.venv/
+venv/
+
+# Node and build output
+node_modules/
+frontend/dist/
+dist/
+build/
+*.tsbuildinfo
+
+# Runtime state and data
+*.log
+*.pid
+uploads/
+logs/
+*.db
+*.sqlite*
+neo4j-data/
+data/
+private_traces/
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
